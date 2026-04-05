@@ -1,0 +1,6 @@
+2026-04-05 22:15:31 INFO Book added: Harry Potter by JK Rowling
+2026-04-05 22:16:04 INFO Book added: Percy Jackson by Rick Riordon
+2026-04-05 22:16:55 INFO Book added: Immortals of Meluha by Amish
+2026-04-05 22:17:04 INFO Book borrowed: Immortals of Meluha by Garima
+2026-04-05 22:17:17 ERROR Return failed - not borrowed: 2
+2026-04-05 22:17:23 INFO Book returned: Immortals of Meluha by Garima
