@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Garima",
+        "age": 20,
+        "course": "Computer Science"
+    },
+    {
+        "name": "Srushti",
+        "age": 21,
+        "course": "Information Technology"
+    },
+    {
+        "name": "Neha",
+        "age": 19,
+        "course": "Data Science"
+    },
+    {
+        "name": "Amit",
+        "age": 22,
+        "course": "AI/ML"
+    }
+]

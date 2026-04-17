@@ -1,0 +1,6 @@
+Line 1: My name is Garima
+Line 2: I am learning Python Backend
+Line 3: Python is interesting
+Line 4: I study in SPIT
+Line 5: This is my internship task
+Line 6: I added this line later
